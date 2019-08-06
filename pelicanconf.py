@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'lllaa'
+AUTHOR = 'Talent Sprint'
 SITENAME = 'Test Blog'
 SITEURL = ''
 
@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('Scikit-learn', 'https://scikit-learn.org/stable/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
